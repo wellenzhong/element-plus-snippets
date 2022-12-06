@@ -22,7 +22,7 @@ note-->
 ```
 | No. | Trigger Key | Element Tag        |
 | :-: | :---------: | :----------------- |
-| 1.  |   `node`    | `标准的注释格式`   |
+| 1.  |   `note`    | `标准的注释格式`   |
 | 2.  |     `v`     | `vue3-ts-结构代码` |
 | 3.  |   `temp`    | `<template>`       |
 | 4.  |   `eptm`    | `<table> 多选`     |
